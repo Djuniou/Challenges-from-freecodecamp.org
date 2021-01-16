@@ -1,5 +1,6 @@
 # CHALLENGES FROM FREECODECAMP.ORG
 I'm studying Data Science, aiming to be an A.I Engineer in the future! 
+
 This was created so that I have a repository of solved challenges from freecodecamp.org;
 
 Goals:
